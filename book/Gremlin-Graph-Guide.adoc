@@ -190,7 +190,7 @@ Chapter 1 - INTRODUCTION::
   and discuss some good use cases for graphs. I also provide pointers to the sample
   programs and other additional materials referenced by the book.
 Chapter 2 - GETTING STARTED::
-- In Chapter two I introduce several of the components of Apache TinkerPop  and 
+- In Chapter two I introduce several of the components of Apache TinkerPop and 
   also introduce the `air-routes.graphml` file that will be used as the graph the
   majority of examples shown in this book are based on.
 Chapter 3 - WRITING GREMLIN QUERIES::
@@ -225,7 +225,7 @@ Chapter 7 - INTRODUCING GREMLIN SERVER::
   and working with a remote graph both from the Gremlin Console and the command line
   as well as from code.
 Chapter 8 - COMMON GRAPH SERIALIZATION FORMATS::
-- In Chapter seven a discussion is presented of some common Graph serialization file
+- In Chapter eight a discussion is presented of some common Graph serialization file
   formats along with coverage of how to use them in the context of TinkerPop 3
   enabled graphs.
 Chapter 9 - FURTHER READING::
